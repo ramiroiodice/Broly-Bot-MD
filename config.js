@@ -11,7 +11,7 @@ import { watchFile, unwatchFile } from "fs"
  //Numeros De Los Propietarios 
  global.owner = [  
  ["5492355505090", 'Angel Creador', true],    
- ["5493794297363", 'Diego Owner', true]]
+ ["5493794297363", 'Gabriel Owner', true]]
   
   
  global.mods = [] 
